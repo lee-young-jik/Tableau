@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b52467dc-d79c-4e06-9561-7e593f1e9431)# Tableau
+
 ## 태블로 신병훈련소 26기 
 <hr>
 <div>1일차</div>
